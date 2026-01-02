@@ -1,4 +1,4 @@
-# .github/workflows/pages.yml
+# .github/workflows/gh-pages.yml
 
 name: GitHub Pages
 
