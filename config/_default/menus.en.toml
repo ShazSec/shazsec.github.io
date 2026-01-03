@@ -53,15 +53,15 @@
   weight = 30
 
 [[main]]
-  identifier = "twitter"
-  pre = "x-twitter"
-  url = "https://twitter.com/its_hakai_"
+  identifier = "linkedin"
+  pre = "linkedin"
+  url = "https://www.linkedin.com/in/sharon-ajose-666831230/"
   weight = 200
 
 [[main]]
   identifier = "github"
   pre = "github"
-  url = "https://github.com/khakai"
+  url = "https://github.com/ShazSec"
   weight = 400
 
 
